@@ -1,0 +1,7 @@
+br\com\mercadolivre\marshall\MarshallXml.class
+br\com\mercadolivre\mockup\MockupObjectFeed.class
+br\com\mercadolivre\util\Prop.class
+br\com\mercadolivre\model\xml\Feed.class
+br\com\mercadolivre\model\xml\Row.class
+br\com\mercadolivre\main\Factory.class
+br\com\mercadolivre\main\Run.class
